@@ -5,7 +5,7 @@ description: Projects
 tags: assignments project
 ---
 
-## Estimating GPS accuracy using Taxi Data
+## Estimating GPS accuracy using Taxi Data - Danny, Richie Sankara, Emilie
 
 The goal of this project is to use the 2013 NYC taxi data to predict error in GPS locations, specifically focusing on building bulk density as a predictor. We’ve all had experiences where GPS tells us that we’re on top of the empire state building, or in the middle of the east river, so how accurate is GPS data really? 
 
